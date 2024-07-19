@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hamudi93 (Ahmad Al-Khalili)
+- 👋 Hi, I’m @Ahmad (Ahmad Al-Khalili)
 - 👀 I’m interested in Data Analytics, Data Science and Electrical Engineering
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Science and Data Analytics projects
